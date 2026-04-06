@@ -1,4 +1,35 @@
-# Info / My Statement on the privating of TWO-TORIAL resources
+# 2026/04/07 - Some Updates on the direction of RE: TWO-TORIAL
+## Welcome Back
+Only a couple months of procrastination later and I have some updates to share on what (RE:) TWO-TORIAL is going to be looking like going forward.
+
+What we have done:
+- Continued to provide updated patches for KFC, LDJ, SDHD
+- Migrated the website to our new domain, re-two-torial.xyz
+
+What's coming:
+- Re-opening of the Discord server for announcements and support
+- Localization planned for Chinese, Japanese, and Korean
+
+What we're commited to:
+- Revising guides as necessary
+- Updating guides for newer versions of already supported games
+- Most importantly, keeping the resource open and accessible!
+
+## Updated Domains
+
+| Original TWO-TORIAL Site  | Previous Mirror               | **Updated Link After Migration**  | Description                   |
+| :-----------------------: | :---------------------------: | :-------------------------------: | :---------------------------: |
+| two-torial.xyz            | two-torial.maimaidxprism.plus | re-two-torial.xyz                 | Main guide website            |
+| patcher.two-torial.xyz    | webpatcher.maimaidxprism.plus | patcher.re-two-torial.xyz         | Patcher for non spice2x games |
+| sp2x.two-torial.xyz       | sp2x.maimaidxprism.plus       | sp2x.re-two-torial.xyz            | Patcher for spice2x games     |
+
+## Important notice on sp2xpatcher
+
+Our sp2x patches source at https://sp2x.re-two-torial.xyz is now **deprecated** and will no longer be updated.
+Please use https://patcher.573.moe instead; this patcher *will* be updated going forth and is our recommendation. 
+We *will* continue to update the webpatcher for non sp2x-games to the best of our ability. 
+
+# (ARCHIVED AND OUTDATED) 2025/12/29 - Info / My Statement on the privating of TWO-TORIAL resources
 ## WTF is happening?
 Hi. For those who don't follow drama in their rhythm game Discord servers, there's been some drama. 
 
