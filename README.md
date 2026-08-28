@@ -61,4 +61,4 @@ If anyone is interested in helping me continue the legacy of TWO-TORIAL, you can
 
 
 ### domain name?
-idk I just had it lying around not doing anything. it's better than the other useless domain I have (see [yeswecantouch.tips](https://yeswecantouch.tips))
+idk I just had it lying around not doing anything. it's better than the other useless domains i had
